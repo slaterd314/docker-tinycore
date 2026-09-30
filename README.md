@@ -25,6 +25,8 @@ These original packages are found under
 
 and Dockerfile of these images are found at
 
+- [`17.1-x86`, `latest` (17.1/x86/Dockerfile)](17.1/x86/Dockerfile)
+- [`17.1-x86_64` (17.1/x86\_64/Dockerfile)](17.1/x86_64/Dockerfile)
 - [`12.0-x86`, `latest` (12.0/x86/Dockerfile)](12.0/x86/Dockerfile)
 - [`12.0-x86_64` (12.0/x86\_64/Dockerfile)](12.0/x86_64/Dockerfile)
 - [`11.0-x86`, `latest` (11.0/x86/Dockerfile)](11.0/x86/Dockerfile)
