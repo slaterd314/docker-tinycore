@@ -14,6 +14,7 @@ x86/x86\_64 packages
 
 These original packages are found under
 
+ - http://tinycorelinux.net/17.x/
  - http://tinycorelinux.net/12.x/
  - http://tinycorelinux.net/11.x/
  - http://tinycorelinux.net/10.x/
@@ -24,38 +25,38 @@ These original packages are found under
 
 and Dockerfile of these images are found at
 
-- [`12.0-x86`, `latest` (12.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/12.0/x86/Dockerfile)
-- [`12.0-x86_64` (12.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/12.0/x86_64/Dockerfile)
-- [`11.0-x86`, `latest` (11.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/11.0/x86/Dockerfile)
-- [`11.0-x86_64` (11.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/11.0/x86_64/Dockerfile)
-- [`10.1-x86` (10.1/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/10.1/x86/Dockerfile)
-- [`10.1-x86_64` (10.1/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/10.1/x86_64/Dockerfile)
-- [`10.0-x86` (10.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/10.0/x86/Dockerfile)
-- [`10.0-x86_64` (10.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/10.0/x86_64/Dockerfile)
-- [`9.0-x86` (9.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/9.0/x86/Dockerfile)
-- [`9.0-x86_64` (9.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/9.0/x86_64/Dockerfile)
-- [`8.2-x86` (8.2/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/8.2/x86/Dockerfile)
-- [`8.2-x86_64` (8.2/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/8.2/x86_64/Dockerfile)
-- [`8.1-x86` (8.1/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/8.1/x86/Dockerfile)
-- [`8.1-x86_64` (8.1/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/8.1/x86_64/Dockerfile)
-- [`8.0-x86` (8.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/8.0/x86/Dockerfile)
-- [`8.0-x86_64` (8.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/8.0/x86_64/Dockerfile)
-- [`7.2-x86` (7.2/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/7.2/x86/Dockerfile)
-- [`7.2-x86_64` (7.2/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/7.2/x86_64/Dockerfile)
-- [`7.1-x86` (7.1/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/7.1/x86/Dockerfile)
-- [`7.1-x86_64` (7.1/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/7.1/x86_64/Dockerfile)
-- [`7.0-x86` (7.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/7.0/x86/Dockerfile)
-- [`7.0-x86_64` (7.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/7.0/x86_64/Dockerfile)
-- [`6.4-x86` (6.4/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.4/x86/Dockerfile)
-- [`6.4-x86_64` (6.4/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.4/x86_64/Dockerfile)
-- [`6.3-x86` (6.3/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.3/x86/Dockerfile)
-- [`6.3-x86_64` (6.3/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.3/x86_64/Dockerfile)
-- [`6.2-x86` (6.2/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.2/x86/Dockerfile)
-- [`6.2-x86_64` (6.2/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.2/x86_64/Dockerfile)
-- [`6.1-x86` (6.1/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.1/x86/Dockerfile)
-- [`6.1-x86_64` (6.1/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.1/x86_64/Dockerfile)
-- [`6.0-x86` (6.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.0/x86/Dockerfile)
-- [`6.0-x86_64` (6.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/6.0/x86_64/Dockerfile)
+- [`12.0-x86`, `latest` (12.0/x86/Dockerfile)](12.0/x86/Dockerfile)
+- [`12.0-x86_64` (12.0/x86\_64/Dockerfile)](12.0/x86_64/Dockerfile)
+- [`11.0-x86`, `latest` (11.0/x86/Dockerfile)](11.0/x86/Dockerfile)
+- [`11.0-x86_64` (11.0/x86\_64/Dockerfile)](11.0/x86_64/Dockerfile)
+- [`10.1-x86` (10.1/x86/Dockerfile)](10.1/x86/Dockerfile)
+- [`10.1-x86_64` (10.1/x86\_64/Dockerfile)](10.1/x86_64/Dockerfile)
+- [`10.0-x86` (10.0/x86/Dockerfile)](10.0/x86/Dockerfile)
+- [`10.0-x86_64` (10.0/x86\_64/Dockerfile)](10.0/x86_64/Dockerfile)
+- [`9.0-x86` (9.0/x86/Dockerfile)](9.0/x86/Dockerfile)
+- [`9.0-x86_64` (9.0/x86\_64/Dockerfile)](9.0/x86_64/Dockerfile)
+- [`8.2-x86` (8.2/x86/Dockerfile)](8.2/x86/Dockerfile)
+- [`8.2-x86_64` (8.2/x86\_64/Dockerfile)](8.2/x86_64/Dockerfile)
+- [`8.1-x86` (8.1/x86/Dockerfile)](8.1/x86/Dockerfile)
+- [`8.1-x86_64` (8.1/x86\_64/Dockerfile)](8.1/x86_64/Dockerfile)
+- [`8.0-x86` (8.0/x86/Dockerfile)](8.0/x86/Dockerfile)
+- [`8.0-x86_64` (8.0/x86\_64/Dockerfile)](8.0/x86_64/Dockerfile)
+- [`7.2-x86` (7.2/x86/Dockerfile)](7.2/x86/Dockerfile)
+- [`7.2-x86_64` (7.2/x86\_64/Dockerfile)](7.2/x86_64/Dockerfile)
+- [`7.1-x86` (7.1/x86/Dockerfile)](7.1/x86/Dockerfile)
+- [`7.1-x86_64` (7.1/x86\_64/Dockerfile)](7.1/x86_64/Dockerfile)
+- [`7.0-x86` (7.0/x86/Dockerfile)](7.0/x86/Dockerfile)
+- [`7.0-x86_64` (7.0/x86\_64/Dockerfile)](7.0/x86_64/Dockerfile)
+- [`6.4-x86` (6.4/x86/Dockerfile)](6.4/x86/Dockerfile)
+- [`6.4-x86_64` (6.4/x86\_64/Dockerfile)](6.4/x86_64/Dockerfile)
+- [`6.3-x86` (6.3/x86/Dockerfile)](6.3/x86/Dockerfile)
+- [`6.3-x86_64` (6.3/x86\_64/Dockerfile)](6.3/x86_64/Dockerfile)
+- [`6.2-x86` (6.2/x86/Dockerfile)](6.2/x86/Dockerfile)
+- [`6.2-x86_64` (6.2/x86\_64/Dockerfile)](6.2/x86_64/Dockerfile)
+- [`6.1-x86` (6.1/x86/Dockerfile)](6.1/x86/Dockerfile)
+- [`6.1-x86_64` (6.1/x86\_64/Dockerfile)](6.1/x86_64/Dockerfile)
+- [`6.0-x86` (6.0/x86/Dockerfile)](6.0/x86/Dockerfile)
+- [`6.0-x86_64` (6.0/x86\_64/Dockerfile)](6.0/x86_64/Dockerfile)
 
 ## Installation
 
