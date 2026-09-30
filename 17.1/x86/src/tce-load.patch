@@ -15,7 +15,7 @@
 +		sudo rm -rf /mnt/test
  	fi
 -	[ "$BOOTING" ] || rmdir /mnt/test
-+	[ "$BOOTING" ] || { [ -d /mnt/test ] && rmdir /mnt/test; }
++	[ "$BOOTING" ] || { { [ -d /mnt/test ] && rmdir /mnt/test; } ; }
  }
  
  update_system() {
